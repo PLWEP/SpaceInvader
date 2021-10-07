@@ -1,2 +1,2 @@
 # SpaceInvader
-Game Space Invader dengan Python dan Pygame
+Game Space Invader dengan Python dan turtle
